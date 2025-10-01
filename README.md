@@ -1,4 +1,4 @@
-# Hi, I'm Shahad 👋  
+# Hi, I'm Shahd 👋  
 
 A **.NET Backend Engineer** passionate about building reliable APIs, scalable systems, and robust databases.  
 Alongside backend development, I have hands-on experience with **Angular** for front-end interfaces and a strong interest in **Data Analysis & Machine Learning**, applying data-driven insights to solve real-world problems.  
@@ -11,8 +11,7 @@ Alongside backend development, I have hands-on experience with **Angular** for f
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
+ 
 **Frontend (Extra Skills)**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -55,9 +54,8 @@ Alongside backend development, I have hands-on experience with **Angular** for f
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/shahdsherif/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdsherifwork2@gmail.com)  
 
 ---
 
